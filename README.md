@@ -1,6 +1,6 @@
 # bookcatalog
 
-This is a book catalog, where you can upload books and use functions for your books.
+This is a book catalog, where you can upload books, and use functions for your books.
 
 # Functions
 
@@ -16,3 +16,4 @@ JavaScript, HTML
 
 # Live Version
 
+https://bucsip.github.io/bookcatalog/
